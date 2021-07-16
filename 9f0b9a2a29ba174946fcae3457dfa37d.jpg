@@ -1,0 +1,716 @@
+<head><meta name="referrer" content="always"></head> 
+<meta name="referrer" content="no-referrer" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="apple-mobile-web-app-title" content="追鸭影视" />
+<script src="/template/vfed/asset/js/player.js"></script>
+<meta name="viewport" content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/index.php/rss/index.xml" />
+<!--[if lt IE 9]><script type="text/javascript">window.location.href = '/index.php/map/index.html';</script><![endif]-->
+<link href="/template/vfed/asset/img/favicon.png" rel="apple-touch-icon-precomposed" />
+<link href="/template/vfed/asset/img/favicon.png" rel="shortcut icon" type="image/ico" />
+<link rel="stylesheet" type="text/css" href="/template/vfed/asset/css/style.css?v=3.1.5" />
+<link rel="stylesheet" type="text/css" href="/template/vfed/asset/css/glass.css?v=3.1.5" id="fed-colo-color" />
+<style type="text/css">.fed-swip-title,.fed-list-pics,.fed-part-layout,.fed-list-info .fed-list-remarks,.fed-list-info .fed-list-play{border-radius:10px}</style>
+<title>追鸭影视</title>
+<meta name="keywords" content="追鸭,追鸭影视,在线电影,一键搜片" />
+<meta name="description" content="提供最新最快的影视资讯和在线播放" />
+<meta itemprop="url" property="og:url" content="https://ys.zhuiya.vip/index.php/index/index.html" />
+<meta itemprop="name" property="og:title" content="追鸭影视" />
+<meta itemprop="image" property="og:image" content="https://ys.zhuiya.vip/template/vfed/asset/img/favicon.png" />
+<meta itemprop="description" property="og:description" content="提供最新最快的影视资讯和在线播放" />
+<script type="text/javascript">
+if(document.cookie.match(new RegExp('(^| )fed_color=([^;]*)(;|$)')) != null) {
+	var color = document.cookie.match(new RegExp('(^| )fed_color=([^;]*)(;|$)'));
+	if(color[2] == 'white') {
+		var elementid = document.getElementById('fed-colo-color');
+		if(elementid) elementid.parentNode.removeChild(elementid);
+	} else if(!document.getElementById('fed-colo-color')) {
+		var style = document.createElement('link');
+		style.type = 'text/css';
+		style.rel = 'stylesheet';
+		style.id = 'fed-colo-color';
+		style.href = '/template/vfed/asset/css/' + unescape(color[2]) + '.css?v=3.1.5';
+		document.getElementsByTagName('head').item(0).appendChild(style);
+	} else document.getElementById('fed-colo-color').href = '/template/vfed/asset/css/' + unescape(color[2]) + '.css?v=3.1.5';
+}
+</script></head>
+<body class="fed-min-width">
+<div class="fed-head-info fed-back-whits fed-min-width fed-box-shadow">
+	<div class="fed-part-case">
+		<div class="fed-navs-info">
+			<ul class="fed-menu-info">
+				<li class="fed-pull-left">
+					<a class="fed-menu-logo fed-show-kind" href="/"><img width="96" height="40" alt="追鸭影视" src="/upload/site/20210716-1/297b8137029ff991f1ca5682784786c8.png" /></a>
+				</li>
+				<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-text-green fed-hide fed-show-md-block" href="/">首页</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-md-block" href="/index.php/vod/type/id/1.html">电影</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-lg-block" href="/index.php/vod/type/id/2.html">连续剧</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-lg-block" href="/index.php/vod/type/id/4.html">动漫</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-lg-block" href="/index.php/vod/type/id/3.html">综艺</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-md-block" href="/index.php/vod/type/id/32.html">直播</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-hide fed-show-md-block" href="/index.php/gbook/index.html">留言求片</a>
+				</li>
+								<li class="fed-pull-left">
+					<a class="fed-menu-title fed-show-kind fed-font-xvi fed-navs-navbar fed-event fed-hide fed-show-sm-block fed-hide-md" href="javascript:;">导航<span class="fed-part-move fed-edge-info fed-edge-bottom"></span></a>
+				</li>
+			</ul>
+			<div class="fed-navs-search fed-back-whits fed-hidden fed-conceal fed-show-sm-block">
+				<a class="fed-navs-close fed-conceal fed-hide-sm" href="javascript:;">取消</a>
+				<form class="fed-navs-form" autocomplete="off" onkeydown="if(event.keyCode==13){return false}">
+										<div class="fed-navs-cuts fed-event">
+						<a class="fed-navs-btns" href="javascript:;">
+														<span class="fed-navs-name" data-type="1" data-href="/index.php/vod/search.html">视频</span><span class="fed-part-move fed-edge-info fed-edge-bottom"></span> 						</a>
+					</div>
+					<input class="fed-navs-input fed-back-ashen fed-event" type="search" placeholder="请输入关键字" />
+					<a class="fed-navs-submit fed-back-ashen"><i class="fed-icon-font fed-icon-sousuo"></i></a>
+									</form>
+			</div>
+			<div class="fed-navs-right">
+				<a class="fed-navs-route fed-text-black fed-event fed-hidden fed-hide-sm" href="javascript:;"></a>
+								<a class="fed-navs-button fed-text-black fed-event fed-hide-sm fed-icon-font fed-icon-sousuo" href="javascript:;"></a>
+								<a class="fed-navs-record fed-text-black fed-event fed-hide-xs fed-show-sm-block" href="javascript:;">看过<span class="fed-part-move fed-edge-info fed-edge-bottom"></span></a>
+								<a class="fed-navs-record fed-text-black fed-event fed-hide-sm fed-icon-font fed-icon-lishi" href="javascript:;"></a>
+							</div>
+		</div>
+		<div class="fed-pops-navbar fed-box-shadow fed-min-width fed-hidden fed-conceal fed-anim">
+			<div class="fed-pops-channel fed-back-whits fed-part-rows fed-line-top fed-hidden">选择频道</div>
+			<a class="fed-pops-btns fed-back-whits fed-text-black fed-text-center fed-event fed-hide-sm fed-icon-font fed-icon-fenlei" href="javascript:;"></a>
+			<ul class="fed-pops-list fed-font-size fed-back-whits fed-part-rows">
+				<li class="fed-col-sm2 fed-this">
+					<a class="fed-part-eone" href="/">首页</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/vod/type/id/1.html">电影</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/vod/type/id/2.html">连续剧</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/vod/type/id/4.html">动漫</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/vod/type/id/3.html">综艺</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/vod/type/id/32.html">直播</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/topic/index.html">专题</a>
+				</li>
+								<li class="fed-col-sm2">
+					<a class="fed-part-eone" href="/index.php/gbook/index.html">留言</a>
+				</li>
+							</ul>
+		</div>
+		<div class="fed-pops-search fed-hidden fed-conceal fed-anim fed-anim-upbit">
+			<div class="fed-pops-case fed-line-top fed-back-ashen fed-box-shadow">
+				<div class="fed-pops-key"></div>
+				<div class="fed-pops-box">
+					<div class="fed-pops-hot">
+						<div class="fed-pops-title fed-back-whits fed-part-rows fed-line-bottom">热门搜索</div>
+						<ul class="fed-pops-list fed-back-whits fed-part-rows">
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5.html"><span class="fed-part-nums fed-part-num1">1</span><span class="fed-name">爱上特种兵</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99.html"><span class="fed-part-nums fed-part-num2">2</span><span class="fed-name">南辕北辙</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E5%A5%94%E8%B7%91%E5%90%A7%E7%AC%AC%E4%BA%94%E5%AD%A3.html"><span class="fed-part-nums fed-part-num3">3</span><span class="fed-name">奔跑吧第五季</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E5%8F%9B%E9%80%86%E8%80%85.html"><span class="fed-part-nums fed-part-num4">4</span><span class="fed-name">叛逆者</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E6%B5%B7%E4%B8%8A%E7%B9%81%E8%8A%B1.html"><span class="fed-part-nums fed-part-num5">5</span><span class="fed-name">海上繁花</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9.html"><span class="fed-part-nums fed-part-num6">6</span><span class="fed-name">变成你的那一天</span></a>
+							</li>
+														<li class="fed-col-xs6">
+								<a class="fed-event fed-part-eone" href="/index.php/vod/search/wd/%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81.html"><span class="fed-part-nums fed-part-num7">7</span><span class="fed-name">不说再见</span></a>
+							</li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="fed-pops-record fed-box-shadow fed-hidden fed-conceal fed-anim fed-anim-upbit">
+			<div class="fed-pops-title fed-back-whits fed-line-top fed-line-bottom fed-part-rows"><span class="fed-col-xs9">观看记录</span>
+				<a class="fed-clear fed-event fed-text-right fed-col-xs3" href="javascript:;">清空</a>
+			</div>
+			<ul class="fed-pops-list fed-back-whits"></ul>
+		</div>
+		<div class="fed-pops-cuts fed-line-top fed-hidden fed-conceal fed-anim fed-anim-upbit">
+			<ul class="fed-part-rows fed-box-shadow fed-back-whits fed-padding">
+				<li data-type="1" data-href="/index.php/vod/search.html" class="fed-padding fed-part-curs fed-text-center fed-event fed-text-green">视频</li>
+							</ul>
+		</div>
+				<div class="fed-pops-user fed-box-shadow fed-back-whits fed-hidden fed-conceal fed-anim fed-anim-upbit">
+			<ul class="fed-pops-list fed-font-size fed-back-whits">
+				<li>
+					<a href="/index.php/user/index.html">游客</a>
+				</li>
+				<li>
+					<a href="/index.php/user/info.html">修改资料</a>
+				</li>
+				<li>
+					<a href="/index.php/user/favs.html">我的收藏</a>
+				</li>
+				<li>
+					<a href="/index.php/user/plays.html">播放记录</a>
+				</li>
+				<li>
+					<a href="/index.php/user/downs.html">下载记录</a>
+				</li>
+				<li>
+					<a href="/index.php/user/plog.html">积分记录</a>
+				</li>
+				<li>
+					<a href="/index.php/user/orders.html">充值记录</a>
+				</li>
+				<li>
+					<a href="/index.php/user/cash.html">积分提现</a>
+				</li>
+				<li>
+					<a href="/index.php/user/buy.html">在线充值</a>
+				</li>
+				<li>
+					<a href="/index.php/user/upgrade.html">升级会员</a>
+				</li>
+				<li>
+					<a href="/index.php/user/reward.html">三级分销</a>
+				</li>
+				<li>
+					<a href="/index.php/user/popedom.html">我的权限</a>
+				</li>
+				<li>
+					<a href="/index.php/user/logout.html">退出登录</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="fed-tabr-info fed-back-whits fed-min-width fed-line-top fed-hide-sm">
+	<ul class="fed-part-rows">
+		<li class="fed-text-center"><a class="fed-visible fed-text-green" href="/"><i class="fed-icon-font fed-icon-shouye"></i><span class="fed-font-xii">首页</span></a></li>
+				<li class="fed-text-center"><a class="fed-visible" href="/index.php/vod/type/id/32.html"><i class="fed-icon-font fed-icon-zhibo"></i><span class="fed-font-xii">直播</span></a></li>
+				<li class="fed-text-center"><a class="fed-visible" href="/index.php/gbook/index.html"><i class="fed-icon-font fed-icon-liuyan"></i><span class="fed-font-xii">留言求片</span></a></li>
+			</ul>
+</div>
+
+<div class="fed-main-info fed-min-width">
+<div class="fed-part-case">
+<div class="fed-navs-button fed-event fed-part-rows fed-back-whits fed-line-top fed-hide-sm">
+	<a class="fed-part-search fed-visible fed-text-center fed-font-xii fed-rims-info fed-text-disad fed-icon-font fed-icon-sousuo" href="javascript:;">&nbsp;点我搜索,尽量别写错字,不然搜不到哦</a>
+</div>
+<div class="fed-swip-container fed-part-rows">
+	<ul class="fed-swip-wrapper fed-font-size">
+			</ul>
+	<div class="fed-swip-pagin fed-font-size fed-text-right"></div>
+	<a class="fed-swip-next fed-text-white fed-text-center fed-hide-xs fed-icon-font fed-icon-you" href="javascript:;"></a>
+	<a class="fed-swip-prev fed-text-white fed-text-center fed-hide-xs fed-icon-font fed-icon-zuo" href="javascript:;"></a>
+</div>
+<div class="fed-part-layout fed-back-whits">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">最新视频</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li>今日更新&nbsp;<span class="fed-text-green">58553</span>&nbsp;部&nbsp;&nbsp;共&nbsp;<span class="fed-text-green">58553&nbsp;</span>部</li>
+						<li><a class="fed-more" href="/index.php/label/news.html">更多</a></li>
+		</ul>
+	</div>
+	<ul class="fed-list-info fed-part-rows">
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69211.html" data-original="http://m.ykimg.com/0526000060D571F813EA3508D54F1FDD">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至30集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69211.html" >大决战</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+唐国强,王劲松,刘涛</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69215.html" data-original="https://4img.hitv.com/preview/sp_images/2021/07/07/202107071656205937820.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至6集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69215.html" >对你的爱很美</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+张嘉益,沙溢,刘敏涛,孙浩,宋丹丹,王紫璇,陈美伊,姜冠南,代文雯</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/87254.html" data-original="http://pic9.iqiyipic.com/image/20210531/0b/c7/a_100461740_m_601_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-07期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/87254.html" >《奔跑吧》第五季高能精彩</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69429.html" data-original="http://pic5.iqiyipic.com/image/20210522/b3/a4/a_100460648_m_601_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-13期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69429.html" >《奔跑吧第5季》精彩集锦</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/126037.html" data-original="http://i0.hdslb.com/bfs/bangumi/image/cfa0fc80ff0285c4680348a1441dbd47e688f756.png@230w_324h">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">8.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至第13话</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/126037.html" >蔚蓝反射 澪</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69266.html" data-original="http://i2.letvimg.com/lc06_isvrs/202010/03/09/04/3491ce95-12b4-49cb-a8b6-78823e3b4153.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-09期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69266.html" >中国正在说</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69225.html" data-original="http://i0.letvimg.com/lc07_isvrs/202106/28/16/54/c63c8282-b8b2-461a-96fc-0940e65dbc53.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至23集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69225.html" >阿坝一家人</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+蒲巴甲,丁勇岱,缪婷茹,娜仁花,刘牧,徳姬,张铎瀚,曹馨月,门东毅,</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69224.html" data-original="https://photocdn.tv.sohu.com/img/kis/fengmian/20210121/1245579_ver_default.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-15期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69224.html" >养生堂</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69223.html" data-original="http://i1.letvimg.com/vrs/201310/18/8cfb884933154b5ca765a53eccdaf006.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-14期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69223.html" >最炫国剧风</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71397.html" data-original="https://3img.hitv.com/preview/internettv/sp_images/ott/2019/4/2/dianying/329059/20190402093752633-new.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">8.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71397.html" >双生</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+刘昊然,陈都灵,赵芮</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71323.html" data-original="https://2img.hitv.com/preview/internettv/sp_images/ott/2018/12/21/dianying/327801/20181221102345545-new.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71323.html" >地狱男爵：血皇后崛起</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+大卫·哈伯,伊恩·麦柯肖恩,米拉·乔沃维奇</span>
+		</li>
+				<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+		<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71288.html" data-original="http://pic0.iqiyipic.com/image/20210125/32/e4/a_100431436_m_601_m2_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">6.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">全38集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71288.html" >刑警之海外行动</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+吴刚,柯蓝,宁理,任达华,俞飞鸿,石凉,戚九洲,马吟吟,王煜,林雪,张洪睿,曾江,赵君,吴国华,章申,安地,</span>
+		</li>
+			</ul>
+</div>
+<div class="fed-list-home fed-part-layout fed-back-whits fed-part-rows">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">电影</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li><a class="fed-more" href="/index.php/vod/type/id/1.html">更多</a></li>
+		</ul>
+	</div>
+		<div class="fed-part-rows">
+				<ul class="fed-list-info fed-part-rows">
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71397.html" data-original="https://3img.hitv.com/preview/internettv/sp_images/ott/2019/4/2/dianying/329059/20190402093752633-new.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">8.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71397.html" >双生</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+刘昊然,陈都灵,赵芮</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71323.html" data-original="https://2img.hitv.com/preview/internettv/sp_images/ott/2018/12/21/dianying/327801/20181221102345545-new.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71323.html" >地狱男爵：血皇后崛起</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+大卫·哈伯,伊恩·麦柯肖恩,米拉·乔沃维奇</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69208.html" data-original="http://puui.qpic.cn/vcover_vt_pic/0/qusgtga98sw2bhb1481712079/0">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">6.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">HD</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69208.html" >花田喜事</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+张国荣,关之琳,许冠杰,毛舜筠</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127536.html" data-original="http://m.ykimg.com/0526000060F0EDDD13EA3508E26D67BF">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127536.html" >热带往事</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+彭于晏,张艾嘉,王砚辉</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127453.html" data-original="http://pic6.iqiyipic.com/image/20200908/04/63/v_112865563_m_601_m13_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127453.html" >玩具总动员4</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+汤姆·汉克斯,蒂姆·艾伦,安妮·波茨,托尼·海尔,琼·库萨克,</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127452.html" data-original="http://r1.ykimg.com/05260000602342372027EE08BA8820D5">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">5.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">高清</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127452.html" >最终幻想14：光之老爸 剧场版</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+坂口健太郎,吉田钢太郎,佐久间由衣</span>
+			</li>
+					</ul>
+			</div>
+	</div>
+<div class="fed-list-home fed-part-layout fed-back-whits fed-part-rows">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">连续剧</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li><a class="fed-more" href="/index.php/vod/type/id/2.html">更多</a></li>
+		</ul>
+	</div>
+		<div class="fed-part-rows">
+				<ul class="fed-list-info fed-part-rows">
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69211.html" data-original="http://m.ykimg.com/0526000060D571F813EA3508D54F1FDD">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至30集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69211.html" >大决战</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+唐国强,王劲松,刘涛</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69215.html" data-original="https://4img.hitv.com/preview/sp_images/2021/07/07/202107071656205937820.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至6集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69215.html" >对你的爱很美</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+张嘉益,沙溢,刘敏涛,孙浩,宋丹丹,王紫璇,陈美伊,姜冠南,代文雯</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69225.html" data-original="http://i0.letvimg.com/lc07_isvrs/202106/28/16/54/c63c8282-b8b2-461a-96fc-0940e65dbc53.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至23集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69225.html" >阿坝一家人</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+蒲巴甲,丁勇岱,缪婷茹,娜仁花,刘牧,徳姬,张铎瀚,曹馨月,门东毅,</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/71288.html" data-original="http://pic0.iqiyipic.com/image/20210125/32/e4/a_100431436_m_601_m2_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">6.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">全38集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/71288.html" >刑警之海外行动</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+吴刚,柯蓝,宁理,任达华,俞飞鸿,石凉,戚九洲,马吟吟,王煜,林雪,张洪睿,曾江,赵君,吴国华,章申,安地,</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69216.html" data-original="http://pic4.iqiyipic.com/image/20210603/ab/4c/a_100421965_m_601_m4_260_360.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">7.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至16集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69216.html" >喵，请许愿</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+任宥纶,葛鑫怡,陈昊蓝,王天宇（中央戏剧学院）,许绍雄</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127738.html" data-original="https://m.ykimg.com/0526000060E579EA2027EE08B86D2ACF">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至4集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127738.html" >燃烧吧！废柴</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+王彦霖,程小蒙,熊梓淇</span>
+			</li>
+					</ul>
+			</div>
+	</div>
+<div class="fed-list-home fed-part-layout fed-back-whits fed-part-rows">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">动漫</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li><a class="fed-more" href="/index.php/vod/type/id/4.html">更多</a></li>
+		</ul>
+	</div>
+		<div class="fed-part-rows">
+				<ul class="fed-list-info fed-part-rows">
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/126037.html" data-original="http://i0.hdslb.com/bfs/bangumi/image/cfa0fc80ff0285c4680348a1441dbd47e688f756.png@230w_324h">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">8.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至第13话</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/126037.html" >蔚蓝反射 澪</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127752.html" data-original="http://pic4.iqiyipic.com/image/20210521/40/b2/a_100460443_m_601_m2_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">7.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至13集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127752.html" >阿衰 第5季</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127751.html" data-original="http://pic8.iqiyipic.com/image/20210202/9f/4f/a_100446294_m_601_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">7.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至24集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127751.html" >极道宗师</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127746.html" data-original="http://puui.qpic.cn/vcover_vt_pic/0/06xnwuxhcfrwj1c1613565256883/220">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">7.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至115集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127746.html" >阿衰</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+莫谦,绿绮,雨辰</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127742.html" data-original="https://0img.hitv.com/preview/sp_images/2021/05/24/202105241144209396041.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">9.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至13集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127742.html" >阿衰 第五季</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+阿衰</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127736.html" data-original="http://pic3.iqiyipic.com/image/20210508/3c/f7/a_100455174_m_601_m3_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">6.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至50集</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127736.html" >无限吃鸡小队 第二季</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+					</ul>
+			</div>
+	</div>
+<div class="fed-list-home fed-part-layout fed-back-whits fed-part-rows">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">综艺</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li><a class="fed-more" href="/index.php/vod/type/id/3.html">更多</a></li>
+		</ul>
+	</div>
+		<div class="fed-part-rows">
+				<ul class="fed-list-info fed-part-rows">
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/87254.html" data-original="http://pic9.iqiyipic.com/image/20210531/0b/c7/a_100461740_m_601_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-07期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/87254.html" >《奔跑吧》第五季高能精彩</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69429.html" data-original="http://pic5.iqiyipic.com/image/20210522/b3/a4/a_100460648_m_601_195_260.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-13期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69429.html" >《奔跑吧第5季》精彩集锦</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+不详</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69266.html" data-original="http://i2.letvimg.com/lc06_isvrs/202010/03/09/04/3491ce95-12b4-49cb-a8b6-78823e3b4153.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-09期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69266.html" >中国正在说</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69224.html" data-original="https://photocdn.tv.sohu.com/img/kis/fengmian/20210121/1245579_ver_default.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">2.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-15期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69224.html" >养生堂</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/69223.html" data-original="http://i1.letvimg.com/vrs/201310/18/8cfb884933154b5ca765a53eccdaf006.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">1.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-14期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/69223.html" >最炫国剧风</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+未知</span>
+			</li>
+						<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2 fed-hide-sm fed-show-md-block">
+			<a class="fed-list-pics fed-lazy fed-part-2by3" href="/index.php/vod/detail/id/127755.html" data-original="http://pic0.iqiyipic.com/image/20210610/ca/08/a_100431364_m_601_m5_260_360.jpg">
+	<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">3.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至2021-07-16期</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/127755.html" >做家务的男人第三季</a>
+<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">
+中国大陆综艺</span>
+			</li>
+					</ul>
+			</div>
+	</div>
+<div class="fed-list-home fed-part-layout fed-back-whits fed-part-rows">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">直播</h2>
+		<ul class="fed-part-tips fed-padding">
+						<li><a class="fed-more" href="/index.php/vod/type/id/32.html">更多</a></li>
+		</ul>
+	</div>
+		<div class="fed-part-rows">
+				<ul class="fed-list-info fed-list-img fed-part-rows">
+						<li class="fed-list-item fed-padding fed-col-xs6 fed-col-sm4 fed-col-md3">
+			<a class="fed-list-pics fed-lazy fed-part-5by3" href="/index.php/vod/play/id/81323/sid/1/nid/1.html" data-original="https://ys.zhuiya.vip/upload/vod/20210717-1/b0aa392445b3cf1662473c0e64b8aab3.png">
+	<span class="fed-list-play fed-hide-xs"></span>
+	<span class="fed-list-score fed-font-xii fed-text-white fed-back-green">39播放</span>
+	<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">39播放</span>
+</a>
+<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/index.php/vod/detail/id/81323.html">电视直播</a>
+			</li>
+					</ul>
+			</div>
+	</div>
+<div class="fed-part-layout fed-back-whits">
+	<div class="fed-list-head fed-part-rows fed-padding">
+		<h2 class="fed-font-xvi">友情链接</h2>
+				<ul class="fed-part-tips fed-padding">
+			<li><a class="fed-more" href="/index.php/gbook/index.html">申请</a></li>
+		</ul>
+			</div>
+	<ul class="fed-part-rows">
+			</ul>
+</div>
+</div></div><div class="fed-goto-info">
+		<a class="fed-goto-share fed-visible fed-text-center fed-back-whits fed-icon-font fed-icon-fenxiang" href="javascript:;"></a>
+		<a class="fed-goto-color fed-visible fed-text-center fed-back-whits fed-icon-font fed-icon-fengge fed-event" href="javascript:;"></a>
+		<a class="fed-goto-toper fed-hidden fed-text-center fed-back-whits fed-icon-font fed-icon-top" href="javascript:;"></a>
+</div><script type="text/javascript"> var vfed = { 'path': '/', 'tips': 'HOheXMuemh1aXlhLnZpcD0xNjI2NDM4MDk4', 'ver': '3.1.5', 'tpl': '/template/vfed/', 'mid': '', 'aid': '1', 'did': '', 'sid': '', 'nid': '', 'wap': 'ys.zhuiya.vip', 'mob': '1', 'not': '1' }; </script>
+<script src="/template/vfed/asset/js/jquery.js?v=3.1.5" type="text/javascript" charset="utf-8"></script>
+<script src="/template/vfed/asset/js/global.js?v=3.1.5" type="text/javascript" charset="utf-8"></script>
+<script src="/template/vfed/asset/js/player.js"></script>
+<div class="fed-foot-info fed-part-layout fed-back-whits">
+	<div class="fed-part-case">
+		<p class="fed-text-center fed-text-black">本站只提供WEB页面服务，本站不存储、不制作任何视频，不承担任何由于内容的合法性及健康性所引起的争议和法律责任。
+若追鸭影视收录内容侵犯了您的权益，请附说明联系邮箱，本站将第一时间处理。</p>
+		<p class="fed-text-center fed-text-black"></p>
+		<p class="fed-text-center fed-text-black fed-foot-maps fed-font-size">
+			<a class="fed-font-xiv" href="/index.php/rss/index.xml" target="_blank">RSS订阅</a>
+			<span class="fed-font-xiv">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv" href="/index.php/rss/baidu.xml" target="_blank">百度蜘蛛</a>
+			<span class="fed-font-xiv">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv" href="/index.php/rss/google.xml" target="_blank">谷歌地图</a>
+			<span class="fed-font-xiv">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv" href="/index.php/rss/sm.xml" target="_blank">神马爬虫</a>
+			<span class="fed-font-xiv fed-hide-xs">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv fed-hide-xs" href="/index.php/rss/sogou.xml" target="_blank">搜狗蜘蛛</a>
+			<span class="fed-font-xiv fed-hide-xs">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv fed-hide-xs" href="/index.php/rss/so.xml" target="_blank">奇虎地图</a>
+			<span class="fed-font-xiv fed-hide-xs">&nbsp;-&nbsp;</span>
+			<a class="fed-font-xiv fed-hide-xs" href="/index.php/rss/bing.xml" target="_blank">必应爬虫</a>
+		</p>
+				<p class="fed-text-center fed-text-black">zhuiya@111.com&nbsp;&nbsp;&nbsp;</p>
+				<p class="fed-text-center fed-text-black">&copy;&nbsp;2021&nbsp;ys.zhuiya.vip&nbsp;Theme&nbsp;by&nbsp;<a class="fed-font-xiv" href="//www.13bk.cn/" target="_blank">vfed&nbsp;3.1.5</a></p>
+	</div>
+</div>
+</body>
+</html>
